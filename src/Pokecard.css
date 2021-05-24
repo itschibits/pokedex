@@ -1,0 +1,19 @@
+/* Pokecard CSS */
+
+.pokecard-card {
+    display: inline-block;
+    background-color: lightgray;
+    width: 200px;
+    margin: 1%;
+    padding: 30px;
+    border-radius: 5%;
+    text-align: center;
+    
+}
+
+/* Pokemon name */
+h5 {
+    color: blue;
+}
+
+
